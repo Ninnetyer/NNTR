@@ -1,0 +1,69 @@
+# ===============================================================
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# Custom host records are listed here.
+
+
+# End of custom host records.
+# Start StevenBlack
+
+#=====================================
+# Hosts contributed by Ninnetyer
+# 
+0.0.0.0 1493361689.rsc.cdn77.org
+0.0.0.0 videospornogratisx.net
+0.0.0.0 *.videospornogratisx.net
+0.0.0.0 www.videospornogratisx.net
+0.0.0.0 videosdemadurasx.com
+
+0.0.0.0 24.105.8.249/32 #Overwatch USA IP Block" dir=in interface=any action=block remoteip=
+0.0.0.0 24.105.9.201/32 #netsh advfirewall firewall add rule name="Overwatch USA IP Block" dir=in interface=any action=block remoteip=
+0.0.0.0 24.105.9.216/32 #netsh advfirewall firewall add rule name="Overwatch USA IP Block" dir=in interface=any action=block remoteip=
+0.0.0.0 24.105.13.123/32 #netsh advfirewall firewall add rule name="Overwatch USA IP Block" dir=in interface=any action=block remoteip=
+0.0.0.0 24.105.13.110/32 #netsh advfirewall firewall add rule name="Overwatch USA IP Block" dir=in interface=any action=block remoteip=
+0.0.0.0 54.179.188.28/32 #netsh advfirewall firewall add rule name="Overwatch USA IP Block" dir=in interface=any action=block remoteip=
+0.0.0.0 90.230.102.240/32 #netsh advfirewall firewall add rule name="Overwatch USA IP Block" dir=in interface=any action=block remoteip=
+0.0.0.0 54.169.212.202/32 #netsh advfirewall firewall add rule name="Overwatch USA IP Block" dir=in interface=any action=block remoteip=
+0.0.0.0 24.105.12.175/32 #netsh advfirewall firewall add rule name="Overwatch USA IP Block" dir=in interface=any action=block remoteip=
+0.0.0.0 24.105.44.235/32 #netsh advfirewall firewall add rule name="Overwatch USA IP Block" dir=in interface=any action=block remoteip=
+0.0.0.0 52.77.215.55/32 #netsh advfirewall firewall add rule name="Overwatch USA IP Block" dir=in interface=any action=block remoteip=
+0.0.0.0 24.105.13.106/32 #netsh advfirewall firewall add rule name="Overwatch USA IP Block" dir=in interface=any action=block remoteip=
+0.0.0.0 24.105.12.174/32 #netsh advfirewall firewall add rule name="Overwatch USA IP Block" dir=in interface=any action=block remoteip=
+
+0.0.0.0 52.77.0.0
+0.0.0.0 52.77.255.255
+0.0.0.0 52.221.0.0
+0.0.0.0 52.221.255.255
+0.0.0.0 54.169.0.0
+0.0.0.0 54.169.255.255
+0.0.0.0 54.221.0.0
+0.0.0.0 54.221.255.255
+0.0.0.0 54.251.0.0
+0.0.0.0 54.255.255.255
+0.0.0.0 202.79.0.0
+0.0.0.0 202.79.255.255
+0.0.0.0 203.83.0.0
+0.0.0.0 203.83.255.255
+0.0.0.0 27.111.0.0
+0.0.0.0 27.111.255.255
+0.0.0.0 150.101.33.0
+0.0.0.0 150.101.34.255
+0.0.0.0 54.179.0.0
+0.0.0.0 54.179.255.255
+
+
+
