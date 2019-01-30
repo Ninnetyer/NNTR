@@ -23,26 +23,11 @@ ff02::3 ip6-allhosts
 #=====================================
 # Hosts contributed by Ninnetyer
 # 
-0.0.0.0 1493361689.rsc.cdn77.org
-0.0.0.0 videospornogratisx.net
-0.0.0.0 *.videospornogratisx.net
-0.0.0.0 www.videospornogratisx.net
-0.0.0.0 videosdemadurasx.com
-
-24.105.8.249 #Overwatch USA IP Block" dir=in interface=any action=block remoteip=
-24.105.9.201 #netsh advfirewall firewall add rule name="Overwatch USA IP Block" dir=in interface=any action=block remoteip=
-24.105.9.216 #netsh advfirewall firewall add rule name="Overwatch USA IP Block" dir=in interface=any action=block remoteip=
-24.105.13.123 #netsh advfirewall firewall add rule name="Overwatch USA IP Block" dir=in interface=any action=block remoteip=
-24.105.13.110 #netsh advfirewall firewall add rule name="Overwatch USA IP Block" dir=in interface=any action=block remoteip=
-54.179.188.28 #netsh advfirewall firewall add rule name="Overwatch USA IP Block" dir=in interface=any action=block remoteip=
-90.230.102.240 #netsh advfirewall firewall add rule name="Overwatch USA IP Block" dir=in interface=any action=block remoteip=
-54.169.212.202 #netsh advfirewall firewall add rule name="Overwatch USA IP Block" dir=in interface=any action=block remoteip=
-24.105.12.175 #netsh advfirewall firewall add rule name="Overwatch USA IP Block" dir=in interface=any action=block remoteip=
-24.105.44.235 #netsh advfirewall firewall add rule name="Overwatch USA IP Block" dir=in interface=any action=block remoteip=
-52.77.215.55 #netsh advfirewall firewall add rule name="Overwatch USA IP Block" dir=in interface=any action=block remoteip=
-24.105.13.106 #netsh advfirewall firewall add rule name="Overwatch USA IP Block" dir=in interface=any action=block remoteip=
-24.105.12.174 #netsh advfirewall firewall add rule name="Overwatch USA IP Block" dir=in interface=any action=block remoteip=
-
+1493361689.rsc.cdn77.org
+videospornogratisx.net
+*.videospornogratisx.net
+videospornogratisx.net
+videosdemadurasx.com
 52.77.0.0
 52.77.255.255
 52.221.0.0
@@ -63,7 +48,6 @@ ff02::3 ip6-allhosts
 150.101.34.255
 54.179.0.0
 54.179.255.255
-Battle.net
 www.xxx.com
 veopornogratis.xxx
 felizporno.com
